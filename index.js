@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
+const generateMD = require("./utils/generateMarkdown");
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -105,6 +106,12 @@ const questions = [
                 return false;
             }
         }
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "Would you like to add a license?",
+        choices: ["MIT", "Apache License 2.0", "GNU GPLv3", "*None*"]
     }
 ];
 
@@ -112,7 +119,12 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    return inquirer.prompt(questions);
+}
 
 // Function call to initialize app
-init();
+init()
+.then(data => {
+    return generateMD(data);
+});
