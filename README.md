@@ -1,10 +1,10 @@
 
-  # sup
+  # README_gen
   ![MITbadge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
 
-  explains sup
+  README generator for easy creation of README.
 
   ## Table of Contents
 
@@ -17,11 +17,11 @@
 
   ## Installation
 
-  npm init and npm i and node index
+  npm init, npm i, run node index to launch
 
   ## Usage
 
-  read me
+  Create README for projects with ease.
 
   ## License
 
@@ -29,15 +29,15 @@
 
   ## Contributing
 
-  helps
+  N/A
 
   ## Tests
 
-  run it in terminal
+  Run in terminal to create.
 
   ## Questions
 
   Have any additional questions? You can contact me here:
-  GitHub: https://github.com/f
-  Email: f
+  GitHub: https://github.com/cfarias956
+  Email: cristian.stedwards@gmail.com
 
