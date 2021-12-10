@@ -1,5 +1,5 @@
 
-  # README-generator
+  # README-gen
   ![MITbadge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
