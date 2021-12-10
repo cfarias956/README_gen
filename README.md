@@ -1,10 +1,10 @@
 
-  # README-gen
+  # sup
   ![MITbadge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
 
-  Application uses node and inquirer to create a quality README.md file from user input.
+  explains sup
 
   ## Table of Contents
 
@@ -12,20 +12,32 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
 
-  To install, clone repository from GitHub, install inquirer, and run 'node index' from root file of application.
+  npm init and npm i and node index
 
   ## Usage
 
-  Ideally used to easily add a thorough README.md to any new project.
+  read me
 
   ## License
 
   Licensed under the [MIT](./src/licenseMIT.txt) license.
 
   ## Contributing
-  * Julian 
-  * Cristian
+
+  helps
+
+  ## Tests
+
+  run it in terminal
+
+  ## Questions
+
+  Have any additional questions? You can contact me here:
+  GitHub: https://github.com/f
+  Email: f
 
