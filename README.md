@@ -12,8 +12,6 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
 
   ## Installation
 
@@ -28,16 +26,6 @@
   Licensed under the [MIT](./src/licenseMIT.txt) license.
 
   ## Contributing
-
-  N/A
-
-  ## Tests
-
-  N/A
-
-  ## Questions
-
-  Have any additional questions? You can contact me here:
-  GitHub: https://github.com/JJP512
-  Email: jay.perez78@yahoo.com
+  * Julian 
+  * Cristian
 
